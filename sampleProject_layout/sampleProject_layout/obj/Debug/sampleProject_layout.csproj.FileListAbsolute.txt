@@ -1,0 +1,147 @@
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe.config
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Buffers.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.IO.Pipelines.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Memory.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\ZstdSharp.dll
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.pdb
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Hash.xxHash.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Buffers.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.IO.Pipelines.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Memory.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.AssemblyReference.cache
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.addProduct.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.customers.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.editProduct.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.inventory.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pharmacyForm.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.purchaseHistory.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signin.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.Properties.Resources.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signup.resources
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.GenerateResource.cache
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CopyComplete
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.exe
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pdb
+D:\Visual Studio Code\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.pdb
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe.config
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.pdb
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Buffers.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.IO.Pipelines.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Memory.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\ZstdSharp.dll
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.pdb
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Hash.xxHash.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Buffers.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.IO.Pipelines.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Memory.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.AssemblyReference.cache
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.addProduct.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.customers.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.editProduct.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.inventory.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pharmacyForm.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.purchaseHistory.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signin.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.Properties.Resources.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signup.resources
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.GenerateResource.cache
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CopyComplete
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.exe
+D:\Visual Studio Code\New folder (4)\Dexter Manlao Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pdb
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe.config
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.pdb
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\BouncyCastle.Cryptography.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Buffers.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.IO.Pipelines.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Memory.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Numerics.Vectors.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\ZstdSharp.dll
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\BouncyCastle.Cryptography.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.pdb
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Google.Protobuf.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\K4os.Hash.xxHash.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Buffers.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.IO.Pipelines.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Memory.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Numerics.Vectors.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.AssemblyReference.cache
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.addProduct.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.customers.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.editProduct.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.inventory.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pharmacyForm.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.purchaseHistory.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signin.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.Properties.Resources.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signup.resources
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.GenerateResource.cache
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CoreCompileInputs.cache
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CopyComplete
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.exe
+D:\1. For Defense\Pharmacy Inventory System\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pdb
